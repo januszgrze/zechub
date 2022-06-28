@@ -24,7 +24,7 @@ ZEC is a digital currency that is based on the Zcash blockchain. It is the close
 
 #### Why is a private currency important?
 
-ZEC gives people the opportunity to transfer data permissionlessly. Having a peer-to-peer, permissionless money system gives people the ability to transact each other independent of centralized entities. ZEC gives people an option to store, transact and elect when to disclose information about their finances.
+ZEC gives people the opportunity to transfer data permissionlessly. Having a peer-to-peer, permissionless money system gives people the ability to store wealth, or transact with others, independent of centralized entities. ZEC also helps people choose when they want to disclose information about their finances with others.
 
 #### Resources
 
